@@ -32,22 +32,7 @@ A Swift-based habit and routine project focused on helping people build consiste
 
 **Focus:** Swift, iOS, clean interactions, lightweight personal productivity, and calm app design.
 
-
 A lot of my visible GitHub is public experiments, forks, and prototypes, while a large part of my actual day-to-day work happens in private product repositories.
-
----
-
-## 🧠 I'm Learning
-
-How to design and ship products that are not just functional, but also:
-
-- intuitive for first-time users
-- resilient in production
-- commercially useful
-- easy to maintain as they grow
-- focused on the real problem instead of the shiny solution
-
-I'm especially interested in the space between **engineering**, **product thinking**, and **business execution**.
 
 ---
 
