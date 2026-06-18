@@ -26,12 +26,6 @@ A mobile app for university students to organise, discover, and join casual spor
 
 **Focus:** React Native, Expo, mobile UX, social coordination, student communities, and location-aware product flows.
 
-### 🌱 NeatHabit
-
-A Swift-based habit and routine project focused on helping people build consistency without turning self-improvement into another dashboard chore.
-
-**Focus:** Swift, iOS, clean interactions, lightweight personal productivity, and calm app design.
-
 A lot of my visible GitHub is public experiments, forks, and prototypes, while a large part of my actual day-to-day work happens in private product repositories.
 
 ---
@@ -74,4 +68,6 @@ A lot of my visible GitHub is public experiments, forks, and prototypes, while a
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
+
+---
 
