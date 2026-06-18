@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm dev 👋
+# hey, i'm Dev 👋
 
 ### I build useful software for real world problems.
 
@@ -12,22 +12,6 @@ I like taking everyday friction - booking food, organising sports, staying consi
 </div>
 
 ---
-
-## 🎧 About Me
-
-I'm a product-minded engineer building across **web**, **mobile**, **backend APIs**, **automation**, and **early-stage startup execution**.
-
-Most of my work sits around making messy real-world workflows feel simpler: restaurant operations, student sport coordination, habit tracking, campus tools, research platforms, and small utilities that remove annoying friction.
-
-I care about shipping software that is:
-
-- fast enough to feel effortless
-- simple enough to be understood immediately
-- reliable enough to be used in the real world
-- polished enough that people actually want to come back
-
----
-
 ## 🚀 Currently Building
 
 ### 🍽️ [Fourked](https://fourked.com)
@@ -48,21 +32,6 @@ A Swift-based habit and routine project focused on helping people build consiste
 
 **Focus:** Swift, iOS, clean interactions, lightweight personal productivity, and calm app design.
 
----
-
-## 🎯 Current Focus
-
-Right now I'm focused on building products around **real-world coordination** — the kind of problems where software makes everyday services faster, clearer, and easier to use.
-
-That means working across:
-
-- full-stack web apps
-- mobile apps
-- backend APIs
-- product design
-- AI-assisted workflows
-- automation and internal tools
-- early-stage product validation
 
 A lot of my visible GitHub is public experiments, forks, and prototypes, while a large part of my actual day-to-day work happens in private product repositories.
 
@@ -82,20 +51,6 @@ I'm especially interested in the space between **engineering**, **product thinki
 
 ---
 
-## 💬 Ask Me About
-
-- MVP development
-- Laravel and PHP backends
-- Next.js and TypeScript apps
-- React Native and Expo
-- Swift / iOS experiments
-- restaurant technology
-- student sport platforms
-- dashboards and internal tools
-- product design for early-stage ideas
-- turning rough ideas into working software
-
----
 
 ## 🧰 Tech I Use
 
@@ -134,16 +89,4 @@ I'm especially interested in the space between **engineering**, **product thinki
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
-
----
-
-## 📌 Public Projects & Experiments
-
-- **NeatHabit** — Swift habit-building app experiment.
-- **react-native-time-picker** — a custom React Native time picker with 300 + downloads
-- **kinekt-research** — economics education site.
-- **myBath** — university app concept with maps and events.
-- **SmartGarden** — hardware/software smart garden project.
-
----
 
