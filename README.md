@@ -2,21 +2,20 @@
 
 # hey, i'm dev 👋
 
-### I build useful software for real-world coordination problems.
+### I build useful software for real world problems.
 
-I like taking everyday friction — booking food, organising games, staying consistent, finding information, managing small workflows — and turning it into clean, practical products that people can actually use.
+I like taking everyday friction - booking food, organising sports, staying consistent, finding information, managing small workflows - and turning it into clean, practical products that people can actually use.
 
 [![Website](https://img.shields.io/badge/Website-praj.co.uk-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://praj.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devpraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpraj)
-[![GitHub](https://img.shields.io/badge/GitHub-Prajz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajz)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🎧 About Me
 
-I'm a product-minded developer building across **web**, **mobile**, **backend APIs**, **automation**, and **early-stage startup execution**.
+I'm a product-minded engineer building across **web**, **mobile**, **backend APIs**, **automation**, and **early-stage startup execution**.
 
 Most of my work sits around making messy real-world workflows feel simpler: restaurant operations, student sport coordination, habit tracking, campus tools, research platforms, and small utilities that remove annoying friction.
 
@@ -33,13 +32,13 @@ I care about shipping software that is:
 
 ### 🍽️ [Fourked](https://fourked.com)
 
-A restaurant technology platform for digital menus, item availability, customer-facing venue pages, and operational workflows from one clean dashboard.
+A restaurant technology platform for digital menus and operational workflows with a focus on catering to allergens and dietary requirements from one clean dashboard.
 
-**Focus:** Laravel, Next.js, restaurant ops, dashboards, booking/menu flows, product design, and practical business tooling.
+**Focus:** Express, Next.js, restaurant ops, dashboards, booking/menu flows, product design, and payments.
 
 ### 🏟️ [GameOn](https://apps.apple.com/no/app/gameonuni/id6757358089)
 
-A mobile app for university students to organise, discover, and join casual sports games with less friction.
+A mobile app for university students to organise, discover, and join casual sports games with less friction. Currently used daily at the University of Bath.
 
 **Focus:** React Native, Expo, mobile UX, social coordination, student communities, and location-aware product flows.
 
@@ -141,48 +140,10 @@ I'm especially interested in the space between **engineering**, **product thinki
 ## 📌 Public Projects & Experiments
 
 - **NeatHabit** — Swift habit-building app experiment.
-- **Capsule** — TypeScript project work and product experimentation.
-- **WalkPad** — Swift/macOS experimentation.
-- **react-native-time-picker** — a custom React Native time picker.
+- **react-native-time-picker** — a custom React Native time picker with 300 + downloads
 - **kinekt-research** — economics education site.
 - **myBath** — university app concept with maps and events.
-- **iSpendify** — expense tracking iOS app.
 - **SmartGarden** — hardware/software smart garden project.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prajz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Prajz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajz&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top languages" />
-
-</div>
-
-> Private repository work is included where GitHub allows contribution visibility. Some active product work may not appear publicly because it lives in private repos or external orgs.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prajz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 🧭 Small Principle
-
-> Treat everyday friction as a product brief.
-
-If something feels slower, messier, or more confusing than it should, there's probably a useful product hiding inside it.
