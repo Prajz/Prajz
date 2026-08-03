@@ -4,8 +4,6 @@
 
 ### I build useful software for real world problems.
 
-I like taking everyday friction - booking food, organising sports, staying consistent, finding information, managing small workflows - and turning it into clean, practical products that people can actually use.
-
 [![Website](https://img.shields.io/badge/Website-praj.co.uk-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://praj.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devpraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpraj)
 
